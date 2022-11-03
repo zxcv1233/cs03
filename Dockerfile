@@ -1,1 +1,1 @@
-FROM xyouxiu6/koyebvxray:index
+FROM xyouxiu6/koyebvxray
